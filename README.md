@@ -1,9 +1,9 @@
 # 2026-Spring-Stat-2---Cycel-2
-Group 6
-• group number and member names 
- 工管二乙 113370224 巴以甯 
- 工管三甲 112370144 林謙宏 
- 工管四乙 111370210 李采軒 
+Group 6  
+• group number and member names   
+ 工管二乙 113370224 巴以甯  
+ 工管三甲 112370144 林謙宏  
+ 工管四乙 111370210 李采軒  
 1. Dataset Used  
  • YRBS_2007.csv  
  • Sample Size: n = 12,902 (after data cleaning).   
